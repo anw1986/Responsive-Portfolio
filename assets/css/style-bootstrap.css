@@ -1,0 +1,37 @@
+body{
+    background-image: url('../images/dust_scratches.png');
+}                          
+
+/* Portfolio placeholder images formating */
+#portfolio_img{
+    width: 200px;
+    height: 150px;
+    opacity: 0.7;
+}
+
+/* Portfolio placeholder hover property of images */
+#portfolio_img:hover{opacity: 1;}
+
+.container{
+    background-color: #ffffff;
+}
+
+/* #overlay{
+  
+    position: absolute;
+    bottom: 20%;
+    width: 200px;
+    height: 40px;
+    background-color: #4aaaa5;
+    color:  #ffffff;
+    text-align: center;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+#colsratch {
+    position: relative;
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  } */
